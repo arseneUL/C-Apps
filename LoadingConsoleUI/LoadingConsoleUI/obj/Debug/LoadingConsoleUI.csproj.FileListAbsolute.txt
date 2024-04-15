@@ -1,0 +1,6 @@
+C:\Users\Arsen\RiderProjects\LoadingConsoleUI\LoadingConsoleUI\bin\Debug\LoadingConsoleUI.exe
+C:\Users\Arsen\RiderProjects\LoadingConsoleUI\LoadingConsoleUI\bin\Debug\LoadingConsoleUI.pdb
+C:\Users\Arsen\RiderProjects\LoadingConsoleUI\LoadingConsoleUI\obj\Debug\LoadingConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Arsen\RiderProjects\LoadingConsoleUI\LoadingConsoleUI\obj\Debug\LoadingConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Arsen\RiderProjects\LoadingConsoleUI\LoadingConsoleUI\obj\Debug\LoadingConsoleUI.exe
+C:\Users\Arsen\RiderProjects\LoadingConsoleUI\LoadingConsoleUI\obj\Debug\LoadingConsoleUI.pdb
