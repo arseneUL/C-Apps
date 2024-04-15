@@ -34,7 +34,7 @@ namespace LoadingConsoleUI
                     {
                         //Console.WriteLine($"Elapsed seconds: {seconds}");
                         seconds++;
-                        Thread.Sleep(ms); // Sleep for 1 second (1000 milliseconds)
+                        Thread.Sleep(ms); // delie the code for the time defined ( e.g 1000 milliseconds)
                     }
                     Console.Write(new String ('.',count));
                     count++;
@@ -65,7 +65,7 @@ namespace LoadingConsoleUI
                         {
                             //Console.WriteLine($"Elapsed seconds: {seconds}");
                             seconds++;
-                            Thread.Sleep(ms); // Sleep for 1 second (1000 milliseconds)
+                            Thread.Sleep(ms); // delie the code for the time defined ( e.g 1000 milliseconds)
                         }
 
                         
@@ -102,7 +102,7 @@ namespace LoadingConsoleUI
                         {
                             //Console.WriteLine($"Elapsed seconds: {seconds}");
                             seconds++;
-                            Thread.Sleep(ms); // Sleep for 1 second (1000 milliseconds)
+                            Thread.Sleep(ms); //delie the code for the time defined ( e.g 1000 milliseconds)
                         }
 
                         
